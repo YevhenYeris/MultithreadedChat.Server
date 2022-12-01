@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadedChat.Server", "MultithreadedChat.Server\MultithreadedChat.Server.csproj", "{9ABED34F-F608-40BA-A5A0-38E5AAF53451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedChat.Client", "MultiThreadedChat.Client\MultiThreadedChat.Client.csproj", "{92C97ACD-8F39-4CC0-B215-94156E6E2A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABED34F-F608-40BA-A5A0-38E5AAF53451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABED34F-F608-40BA-A5A0-38E5AAF53451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABED34F-F608-40BA-A5A0-38E5AAF53451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABED34F-F608-40BA-A5A0-38E5AAF53451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C97ACD-8F39-4CC0-B215-94156E6E2A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C97ACD-8F39-4CC0-B215-94156E6E2A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C97ACD-8F39-4CC0-B215-94156E6E2A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C97ACD-8F39-4CC0-B215-94156E6E2A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDF5893-1055-4732-BBC4-9F0CDB6AE99A}
+	EndGlobalSection
+EndGlobal
